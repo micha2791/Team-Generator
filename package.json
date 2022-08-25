@@ -1,18 +1,26 @@
 {
   "name": "challenge10",
   "version": "1.0.0",
-  "description": "",
+  "description": "### Github : https://github.com/micha2791/Team-Generator",
   "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Michael Correa",
-  "license": "ISC",
-  "dependencies": {
-    "inquirer": "^9.1.0",
-    "node-fetch": "^2.6.6"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micha2791/Team-Generator.git"
   },
-  "devDependencies": {
-    "@types/node-fetch": "^2.6.2"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micha2791/Team-Generator/issues"
+  },
+  "homepage": "https://github.com/micha2791/Team-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
   }
 }
